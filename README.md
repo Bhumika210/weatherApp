@@ -12,7 +12,7 @@ To get started with this project on your local machine, follow these steps:
 
 Clone the repository to your local system:-
 bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Bhumika210/weatherApp
 
 Navigate into the project directory:-
 bash
