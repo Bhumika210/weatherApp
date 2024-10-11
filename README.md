@@ -6,3 +6,23 @@ Axios is used to fetch real-time data from external weather APIs, providing accu
 This project utilizes the OpenWeather API to provide reliable, real-time weather data, making it a valuable tool for users to explore global weather conditions.
 
 This project is a reflection of modern web development practices, combining robust back-end functionality with visually appealing front-end design to deliver a user-friendly tool for exploring weather conditions.
+
+Installation
+To get started with this project on your local machine, follow these steps:
+
+Clone the repository to your local system:-
+bash
+git clone https://github.com/your-username/your-repo-name.git
+
+Navigate into the project directory:-
+bash
+cd weatherApp
+
+Install dependencies using npm:-
+bash
+npm install
+This command will install all the necessary packages and dependencies listed in the package.json file, so there's no need to upload the node_modules folder.
+
+Start the application:-
+bash
+nodemon server.js
